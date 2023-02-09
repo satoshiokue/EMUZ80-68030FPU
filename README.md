@@ -13,7 +13,8 @@ MEZ68030FPU 2nd
 MC68030RC33CとPIC18F47Q43の組み合わせで動作確認しています。  
 
 動作確認で使用したMPU&FPU  
-MC68030RC33C
+MC68030RC33C  
+MC68882RC25A  
 MC68881RC16R  
 
 ソースコードはGazelleさんのEMUZ80用main_cpz.cを元に改変してGPLライセンスに基づいて公開するものです。
