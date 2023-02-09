@@ -3,6 +3,9 @@
 
 MC68030のDynamic Bus Sizing機能によって「外部8bitバス」で動作します。
 
+![MEZ68030FPU](https://github.com/satoshiokue/EMUZ80-68030FPU/blob/main/IMG_2003.jpeg)  
+68030+68882  
+
 ![MEZ68030FPU](https://github.com/satoshiokue/EMUZ80-68030FPU/blob/main/IMG_1721.jpeg)  
 MEZ68030FPU 1st  
 
